@@ -1,6 +1,6 @@
 # OASIS_nifti_Part_8
 
-![Progress](https://progress-bar.dev/66.6/?title=Progress&width=150&color=brightgreen)
+![Progress](https://progress-bar.dev/66/?title=Progress&width=150&color=brightgreen)
 
 ## Overview
 This GitHub repository contains the first part of the OASIS-1 dataset, which comprises cross-sectional MRI data of young, middle-aged, nondemented, and demented older adults. The original data was provided in the .img and .hdr formats, but I have converted it into the compressed NIfTI format (.nii.gz) using FSL_UTILS.
